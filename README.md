@@ -49,10 +49,10 @@ No installation required! Simply:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/number-analysis-tool.git
+git clone https://github.com/anikacharjee/number_analysis_tool.git
 
 # Navigate to project directory
-cd number-analysis-tool
+cd number_analysis_tool
 
 # Open in browser
 open index.html
